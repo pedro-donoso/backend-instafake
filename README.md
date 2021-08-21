@@ -70,3 +70,4 @@ password : "secret"
 ctrl + c
 y
 ```
+![Captura](https://user-images.githubusercontent.com/68760595/130308839-f5130cc1-04fc-4487-9bae-18643dc0b00a.PNG)
